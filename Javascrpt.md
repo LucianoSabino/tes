@@ -1,6 +1,6 @@
-### Inicializando
+<h3 align="center"> Inicializando </h3>
 
-`yarn init -y`
+<p align="center"> yarn init -y </p>
 
 <h3 align="center">Docker</h3>
 - Crier um arquivo com o nome ``docker-compose.yml` esse aquivo vai ser responsavel para conexão
@@ -24,8 +24,9 @@
             banco-de-dados-evento:
 
 - Depois execute esse comando `docker-compose up -d`
-
+---
 <h3 align="center">Prisma</h3>
+
 
 - Execute esse comando para instalar `yarn add prisma @prisma/client`
 - Iniciando o prisma `yarn prisma init `
