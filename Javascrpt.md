@@ -51,6 +51,7 @@
 
 Agora sua conexão com o banco de dados e sua tabela foi feita.
 
+---
 <h3 align="center">Fazendo a api</h3>
 
 Execute esse comando, para instalar as blibiotecas `yarn add express cors dotenv`
