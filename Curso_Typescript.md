@@ -155,7 +155,7 @@ _npx prisma init --datasource-provider postgresql_
 
 ### Docker com DBever
 
-- Crier um arquivo com o nome ``docker-compose.yml` esse aquivo vai ser responsavel para conequição, vai ser colocado isso
+- Crier um arquivo com o nome ``docker-compose.yml` esse aquivo vai ser responsavel para conexão do docker no projeto, vai ser colocado isso
   version: '3.7'
   services:
   db:

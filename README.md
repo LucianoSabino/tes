@@ -1,4 +1,4 @@
-### TypeScript, Docker ORM e muito mais: Seus atalhos para a produtividade!
+<h1 align="center">TypeScript, Docker ORM e muito mais: Seus atalhos para a produtividade!</h1>
 
 Neste repositório, você encontrará uma coleção de comandos, dicas e soluções para otimizar seu fluxo de trabalho com TypeScript, Docker ORM e outras tecnologias. Aqui, compartilhamos as lições aprendidas e os atalhos que desenvolvemos para agilizar o desenvolvimento e resolver problemas comuns.
 
