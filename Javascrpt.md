@@ -5,6 +5,7 @@
 <h3 align="center">Docker</h3>
 - Crier um arquivo com o nome ``docker-compose.yml` esse aquivo vai ser responsavel para conexão
     Coloque no arquivo: 
+    
         version: '3'
 
         services:
