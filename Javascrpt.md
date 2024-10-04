@@ -12,14 +12,14 @@
         db-postgres-evento:
             image: postgres
             ports:
-            - "5438:5432"
+                - "5438:5432"
             container_name: "db-postgres-evento"
             restart: always
             volumes:
-            - ./banco-de-dados-evento:/var/lib/postgresql/data
+                - ./banco-de-dados-evento:/var/lib/postgresql/data
             environment:
-            POSTGRES_USER: pguser
-            POSTGRES_PASSWORD: pguser
+                POSTGRES_USER: pguser
+                POSTGRES_PASSWORD: pguser
 
         volumes:
             banco-de-dados-evento:
